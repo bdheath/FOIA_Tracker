@@ -1,0 +1,20 @@
+[@DATE]
+
+[@TO]
+
+Re: Freedom of Information Law request
+
+Dear [@GREETING]:
+
+Under the New York Freedom of Information Law, Public Officers Law &sect; 87 <i>et seq.</i>, I hereby request all records of [@RECORDS].
+
+If the fee for retrieving or reproducing these records will exceed $25, please notify me before filling this request. I can be reached at [@PHONE] or [@EMAIL].
+
+As you know, state statute allows for the inspection of government records unless explicitly prohibited by law. <i>Id.</i>
+
+If for any reason any portion of this request is denied, please notify me in writing of the specific reason for the denial and the name and address of the officer or body to which my appeal should be directed.
+
+Sincerely,
+
+[@REALNAME]
+

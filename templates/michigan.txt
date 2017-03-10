@@ -1,0 +1,25 @@
+[@DATE]
+
+
+
+[@TO]
+
+Re:	Freedom of Information Act request
+
+
+Dear [@GREETING]:
+
+Under Michigan's Freedom of Information Act, MCL 15.231 et seq., I hreby request a copy of [@RECORDS].
+
+If the fees for reproducing these records will exceed $25.00, please notify me before filling this request. I can be reached at [@PHONE] or [@EMAIL].
+
+As you know, MCL 15.235(2) grants an agency five business days in which to respond to this request. I tehrefore look forward to your prompt reply.
+
+If for any reason any portion of this request is denied, please notify me in writing of the specific reason for the denial and the name and address of the officer or body to which my appeal should be directed.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+
+[@REALNAME]

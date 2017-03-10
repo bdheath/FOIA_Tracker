@@ -1,0 +1,12 @@
+// These are valid tags for use in eFOIA templates:
+
+[@DATE]		- The current date (system generated)
+[@REALNAME]	- The user's real name (stored in the user's preferences)
+[@ADDRESS]	- The user's address (stored in user preferences)
+[@PHONE]	- Ths user's phone number (stored in user preferences)
+[@EMAIL]	- The user's e-mail address (stored in user preferences)
+[@TO]		- The address block from the letter-generating form
+[@GREETING]	- The greeting from the letter-generating form
+[@RECORDS]	- The description of records sought from the letter-generating form
+		  (for simplicity of formatting, eFOIA automatically removes any closing
+		  period from the user's input.)

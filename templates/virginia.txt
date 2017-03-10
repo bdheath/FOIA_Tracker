@@ -1,0 +1,19 @@
+[@DATE]
+
+[@TO]
+
+Re: Freedom of Information Act request
+
+Dear [@GREETING]:
+
+Under the Freedom of Information Act, &sect; 2.2-3700 <i>et seq.</i> of the Code of Virginia, I hereby request a copy of [@RECORDS].
+
+If the fee for retrieving or reproducing these records will exceed $25, please notify me before filling this request. I can be reached at [@PHONE] or [@EMAIL].
+
+As you know, all public records are open for inspection during normal business hours except as otherwise specifically provided by law. Code &sect; 2.2-3704.
+
+If for any reason any portion of this request is denied, please notify me in writing of the specific reason for the denial and the name and address of the officer or body to which my appeal should be directed.
+
+Sincerely,
+
+[@REALNAME]

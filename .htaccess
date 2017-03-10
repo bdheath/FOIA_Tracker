@@ -1,0 +1,12 @@
+# this is the initialization
+Options         +FollowSymLinks
+RewriteEngine   On
+RewriteBase     /
+
+# these are the rewrite conditions
+
+RewriteCond     %{REQUEST_FILENAME}     !-f
+RewriteCond     %{REQUEST_FILENAME}     !-d
+
+# and finally, the rewrite rules
+RewriteRule     ^document\/(.*)/?$    /foia/document.php?inp=$1 [L,QSA]

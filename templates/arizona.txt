@@ -1,0 +1,25 @@
+[@DATE]
+
+[@TO]
+
+Re: Public records request
+
+Dear [@GREETING]:
+
+I hereby request under the Arizona Public Records Law, Ariz. Rev. Stat. &sect; 39-121 <i>et seq.</i>, that the following records be made available to me: [@RECORDS].
+
+I am requesting these records be made available in an electronic format. Please note the Arizona Supreme Court has stated that electronic records and metadata are available under the Law. <i>Lake v. City of Phoenix</i>, 222 Ariz. 547, 218 P.3d 1004 (2009). 
+
+As you know, Arizona law defines "public records" broadly and creates a presumption requiring the disclosure of public documents. <i>Griffis v. Pinal County</i>, 215 Ariz. 1, 156 P.3d 418, 421 (2007).
+
+Please fast-track this request. The Arizona Legislature has revised the public records law to require that records be released "promptly." A.R.S. &sect; 39-121.01(D)(1).
+
+Finally, state law provides that if portions of a document are exempt from release, the remainder must be segregated and disclosed. As well, if any portion of this request is denied, please provide a statement of the reasons for the denial, citing the law or regulations under which access is denied.
+
+If you have any questions, please contact me by phone at [@PHONE] or by email at [@EMAIL]. 
+
+Thank you in advance for your anticipated cooperation.
+
+Sincerely,
+
+[@REALNAME]

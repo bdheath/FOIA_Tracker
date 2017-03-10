@@ -1,0 +1,20 @@
+[@DATE]
+
+[@TO]
+
+Re: Public records request
+
+Dear [@GREETING]:
+
+Under the Colorado Open Records Act, Colo. Rev. Stat. &sect; 24-72-203 <i>et seq.</i>, I hereby request all records of [@RECORDS].
+
+If the fee for retrieving or reproducing these records will exceed $25, please notify me before filling this request. I can be reached at [@PHONE] or [@EMAIL].
+
+As you know, state law requires the custodian of any public record to allow any person the right of inspection of such records or any portion thereof. C.R.S. &sect; 24-72-304(1).
+
+If for any reason any portion of this request is denied, please notify me in writing of the specific reason for the denial and the name and address of the officer or body to which my appeal should be directed. As well, if any portion of this request is denied, please provide a statement of the reasons for the denial, citing the law or regulations under which access is denied.
+
+Sincerely,
+
+[@REALNAME]
+
